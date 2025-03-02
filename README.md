@@ -1,5 +1,5 @@
 # Osintera Phone Number Deep Osint v1.0 📞
-![banner image](https://github.com/anezatra/osintera/blob/main/banner.jpg)
+![banner image](https://github.com/anezatra-katedram/osintera/blob/main/banner.jpg)
 ## What is a Osintera Deep Osint?
 **Osintera is designed to scrape deep information about the entered phone number using the truecallerjs API written in Javascript. In some cases, 
 you can also find your gmail address from your phone number.**
